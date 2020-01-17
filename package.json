@@ -1,0 +1,23 @@
+{
+    "name": "next-solution-ops1",
+    "version": "1.0.0",
+    "description": "Ops 1",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hoangnguyenminhhust/next-solution-ops1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hoangnguyenminhhust/next-solution-ops1/issues"
+    },
+    "homepage": "https://github.com/hoangnguyenminhhust/next-solution-ops1#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
